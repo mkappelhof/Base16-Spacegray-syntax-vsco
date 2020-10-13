@@ -6,20 +6,20 @@ Base16 Spacegray syntax for Visual Studio Code.
 
 | Base | Hex | Color |
 |------|-----|-------|
-| base00 | `#222222` | <div style="display:inline-block;width:100px;height:20px;background-color:#222222;"></div> |
-| base01 | `#343d46` | <div style="display:inline-block;width:100px;height:20px;background-color:#343d46;"></div> |
-| base02 | `#4f5b66` | <div style="display:inline-block;width:100px;height:20px;background-color:#4f5b66;"></div> |
-| base03 | `#65737e` | <div style="display:inline-block;width:100px;height:20px;background-color:#65737e;"></div> |
-| base04 | `#a7adba` | <div style="display:inline-block;width:100px;height:20px;background-color:#a7adba;"></div> |
-| base05 | `#c0c5ce` | <div style="display:inline-block;width:100px;height:20px;background-color:#c0c5ce;"></div> |
-| base06 | `#dfe1e8` | <div style="display:inline-block;width:100px;height:20px;background-color:#dfe1e8;"></div> |
-| base07 | `#eff1f5` | <div style="display:inline-block;width:100px;height:20px;background-color:#eff1f5;"></div> |
-| base08 | `#bf616a` | <div style="display:inline-block;width:100px;height:20px;background-color:#bf616a;"></div> |
-| base09 | `#d08770` | <div style="display:inline-block;width:100px;height:20px;background-color:#d08770;"></div> |
-| base0A | `#ebcb8b` | <div style="display:inline-block;width:100px;height:20px;background-color:#ebcb8b;"></div> |
-| base0B | `#a3be8c` | <div style="display:inline-block;width:100px;height:20px;background-color:#a3be8c;"></div> |
-| base0C | `#96b5b4` | <div style="display:inline-block;width:100px;height:20px;background-color:#96b5b4;"></div> |
-| base0D | `#8fa1b3` | <div style="display:inline-block;width:100px;height:20px;background-color:#8fa1b3;"></div> |
-| base0E | `#b48ead` | <div style="display:inline-block;width:100px;height:20px;background-color:#b48ead;"></div> |
-| base0F | `#ab7967` | <div style="display:inline-block;width:100px;height:20px;background-color:#ab7967;"></div> |
-| base10 | `#99cc99` | <div style="display:inline-block;width:100px;height:20px;background-color:#99cc99;"></div> |
+| base00 | `#222222` | ![#222222](https://via.placeholder.com/100x20/222222/000000?text=+) |
+| base01 | `#343d46` | ![#343d46](https://via.placeholder.com/100x20/343d46/000000?text=+) |
+| base02 | `#4f5b66` | ![#4f5b66](https://via.placeholder.com/100x20/4f5b66/000000?text=+) |
+| base03 | `#65737e` | ![#65737e](https://via.placeholder.com/100x20/65737e/000000?text=+) |
+| base04 | `#a7adba` | ![#a7adba](https://via.placeholder.com/100x20/a7adba/000000?text=+) |
+| base05 | `#c0c5ce` | ![#c0c5ce](https://via.placeholder.com/100x20/c0c5ce/000000?text=+) |
+| base06 | `#dfe1e8` | ![#dfe1e8](https://via.placeholder.com/100x20/dfe1e8/000000?text=+) |
+| base07 | `#eff1f5` | ![#eff1f5](https://via.placeholder.com/100x20/eff1f5/000000?text=+) |
+| base08 | `#bf616a` | ![#bf616a](https://via.placeholder.com/100x20/bf616a/000000?text=+) |
+| base09 | `#d08770` | ![#d08770](https://via.placeholder.com/100x20/d08770/000000?text=+) |
+| base0A | `#ebcb8b` | ![#ebcb8b](https://via.placeholder.com/100x20/ebcb8b/000000?text=+) |
+| base0B | `#a3be8c` | ![#a3be8c](https://via.placeholder.com/100x20/a3be8c/000000?text=+) |
+| base0C | `#96b5b4` | ![#96b5b4](https://via.placeholder.com/100x20/96b5b4/000000?text=+) |
+| base0D | `#8fa1b3` | ![#8fa1b3](https://via.placeholder.com/100x20/8fa1b3/000000?text=+) |
+| base0E | `#b48ead` | ![#b48ead](https://via.placeholder.com/100x20/b48ead/000000?text=+) |
+| base0F | `#ab7967` | ![#ab7967](https://via.placeholder.com/100x20/ab7967/000000?text=+) |
+| base10 | `#99cc99` | ![#99cc99](https://via.placeholder.com/100x20/99cc99/000000?text=+) |
