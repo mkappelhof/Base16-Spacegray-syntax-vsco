@@ -82,9 +82,10 @@
 				"punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
         "punctuation.definition.directive",
+        "punctuation.definition.keyword", 
 				"punctuation.section.embedded",
 				"keyword.other.template",
-				"keyword.other.substitution"
+        "keyword.other.substitution"
 			],
 			"settings": {
 				"foreground": "#b48ead"
@@ -243,7 +244,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#c0c5ce"
 			}
 		},
 		{
@@ -257,9 +258,48 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#c0c5ce"
 			}
-		},
+    },
+    {
+      "name": "CSS Punctuation definition",
+      "scope": [
+        "source.css punctuation.definition.entity", 
+        "source.scss punctuation.definition.entity", 
+        "source.less punctuation.definition.entity",
+        "source.stylus punctuation.definition.entity",
+				"source.postcss punctuation.definition.entity",
+			],
+			"settings": {
+				"foreground": "#96b5b4"
+			}
+    },
+    {
+			"name": "CSS Class Identifiers",
+			"scope": [
+        "source.css entity.other.attribute-name.class", 
+        "source.scss entity.other.attribute-name.class", 
+        "source.less entity.other.attribute-name.class",
+        "source.stylus entity.other.attribute-name.class",
+				"source.postcss entity.other.attribute-name.class",
+			],
+			"settings": {
+				"foreground": "#8fa1b3"
+			}
+    },
+    {
+      "name": "CSS ID Identifiers",
+      "scope": [
+        "source.css entity.other.attribute-name.id", 
+        "source.scss entity.other.attribute-name.id", 
+        "source.less entity.other.attribute-name.id",
+        "source.stylus entity.other.attribute-name.id",
+				"source.postcss entity.other.attribute-name.id",
+			],
+      "settings": {
+				"foreground": "#96b5b4"
+			}
+    }, 
 		{
 			"name": "Sub-methods",
 			"scope": [
@@ -429,7 +469,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#c0c5ce"
+				"foreground": "#a3be8c"
 			}
 		},
 		{
@@ -438,7 +478,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#c0c5ce"
+				"foreground": "#a3be8c"
 			}
 		},
 		{
@@ -447,7 +487,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#b48ead"
+				"foreground": "#a3be8c"
 			}
 		},
 		{
@@ -456,7 +496,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#b48ead"
+				"foreground": "#a3be8c"
 			}
 		},
 		{
@@ -465,7 +505,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#b48ead"
+				"foreground": "#a3be8c"
 			}
 		},
 		{
@@ -474,7 +514,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#b48ead"
+				"foreground": "#a3be8c"
 			}
 		},
 		{
@@ -483,7 +523,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#b48ead"
+				"foreground": "#a3be8c"
 			}
 		},
 		{
@@ -492,7 +532,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#b48ead"
+				"foreground": "#a3be8c"
 			}
 		},
 		{
@@ -501,7 +541,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#b48ead"
+				"foreground": "#a3be8c"
 			}
     },
 		{
