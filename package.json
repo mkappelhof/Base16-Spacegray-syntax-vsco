@@ -3,6 +3,7 @@
     "displayName": "Base16 Spacegray",
     "description": "Base16 Spacegray syntax",
     "version": "0.0.1",
+    "publisher": "mkappelhof",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -17,5 +18,12 @@
                 "path": "./themes/Base16 Spacegray-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "vscode:prepublish": "vsce package -o base16-spacegray-0.0.1.vsix",
+        "vscode:publish": "vsce publish"
+    },
+    "devDependencies": {
+        "vsce": "^1.100.0"
     }
 }
